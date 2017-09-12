@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/Subhojyoti/Subhojyoti.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[a relative link](https://github.com/Subhojyoti/Subhojyoti.github.io/blob/master/research.md)
+[a relative link](https://github.com/Subhojyoti/Subhojyoti.github.io/research)
 
 ### Markdown
 
