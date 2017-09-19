@@ -20,7 +20,7 @@
 
 2. *Aggregation of Experts*, Subhojyoti Mukherjee, Odalric-Ambrym Maillard (INRIA, Sequel Lab, Lille, France)
 * ### Abstract ###
-<p>  We study a variant of multi-armed bandits where arms are non-stationary but predictable. The basic idea is to combine change-point detection algorithm with aggregation of expert strategies in order to define efficient pulling strategies in context of bandits with change of distributions. We focus on the guarantees of prediction error for each arm derived from theory, and on the problem of learning adaptively a representation of signal from a practical point of view. <p>
+<p>  We study a variant of multi-armed bandits where arms are non-stationary but predictable. The basic idea is to combine change-point detection algorithm with aggregation of expert strategies in order to define efficient pulling strategies in context of bandits with change of distributions. We focus on the guarantees of prediction error for each arm derived from theory, and on the problem of learning adaptively a representation of signal from a practical point of view. </p>
 
 # Research Internship
 1. Research internship under Dr. Odalric-Ambrym Maillard in the INRIA, Sequel Lab, Lille, France from 1st September, 2017 to 28th November, 2017 for a period of 3 months.
