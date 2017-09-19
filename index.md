@@ -4,7 +4,6 @@ Subhojyoti Mukherjee (M.S Scholar, CSE Department, IIT Madras)
 
 </title>
 
-<main>
     
 # About Me
 
@@ -42,4 +41,4 @@ I am an M.S (Research) scholar at the Computer Science and Engineering (CSE) Dep
 # Resume
 
 You can find my full resume here. [Resume](https://github.com/Subhojyoti/CV/blob/master/subho_cv.pdf)
-</main>
+
