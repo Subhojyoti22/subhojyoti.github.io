@@ -1,7 +1,3 @@
----
-Things to Do
----
-
 # About Me
 
 I am an M.S (Research) scholar at the Computer Science and Engineering (CSE) Department in IIT Madras. I am advised by Dr. Balaraman Ravindran (CSE) and Dr. Nandan Sudarsanam (Department of Management Studies). I am interested in working in the broad area of Machine Learning and Reinforcement Learning. Currently I am working in the area of stochastic and non-stocahstic Multi Armed Bandit settings. 
