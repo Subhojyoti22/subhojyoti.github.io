@@ -14,7 +14,7 @@
    
       [**PDF**](http://static.ijcai.org/proceedings-2017/0350.pdf)
 
-2. *"Efficient UCBV: An Almost Optimal Algorithm using Variance Estimates"*, Subhojyoti Mukherjee, K.P. Naveen, Nandan Sudarsanam, and Balaraman Ravindran, **Proceedings of the Thirty-Second Association for Advancement of Artificial Intelligence (AAAI-18)**.
+2. *"Efficient UCBV: An Almost Optimal Algorithm using Variance Estimates"*, Subhojyoti Mukherjee, K.P. Naveen, Nandan Sudarsanam, and Balaraman Ravindran, **Proceedings of the Thirty-Second Association for the Advancement of Artificial Intelligence (AAAI-18)**.
 
    * ### Abstract ###
    
