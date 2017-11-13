@@ -22,7 +22,7 @@
    
    * ### Full Paper ###
    
-      [**PDF**](https://github.com/Subhojyoti/EUCBV/blob/master/AAAI2018/EUCBV.pdf)
+      [**PDF**](https://arxiv.org/pdf/1711.03591.pdf)
 
 # Ongoing Work
 
