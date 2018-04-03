@@ -26,10 +26,16 @@
 
 # Ongoing Work
 
-1. *Aggregation of Experts*, Subhojyoti Mukherjee, Odalric-Ambrym Maillard (INRIA, Sequel Lab, Lille, France)
+1. *Improved Changepoint Detection in Piece-wise Stochastic Bandits*, Subhojyoti Mukherjee, Odalric-Ambrym Maillard (INRIA, Sequel Lab, Lille, France)
 
    * ### Abstract ###
-   <p>We study a variant of multi-armed bandits where arms are non-stationary but predictable. The basic idea is to combine change-point detection algorithm with aggregation of expert strategies in order to define efficient pulling strategies in the context of bandits with the change of distributions. We focus on the guarantees of prediction error for each arm derived from theory, and on the problem of learning adaptively a representation of the signal from a practical point of view.</p>
+   <p>We proposed two UCB algorithms, UCB-CPD and ImpCPD for the piecewise stochastic environment. Both these algorithms are adaptive and try to locate the changepoints and restart, thereby performing better than the passive algorithms. Theoretically, ImpCPD achieves an order optimal regret bound, thereby closing an important gap with respect to the lower bound. Empirically, ImpCPD outperforms most of the passive and adaptive algorithms except the oracle-based algorithms in all the considered environments.</p>
+
+2. *Generalized Latent Bandits*, Subhojyoti Mukherjee, Branislav Kveton, Anup Rao, Zheng Wen
+
+   * ### Abstract ###
+   <p> We study the problem of recommending the best items to users who are coming sequentially. The learner has access to very less prior information about the users and it has to adapt quickly to the user preferences and suggest the best item to each user. Furthermore, we consider the setting where users are grouped into clusters and within each cluster the users have the same choice of the best item, even though their quality of preference may be different for the best item. These clusters along with the choice of the best item for each user are unknown to the learner.  Also, we assume that each user has a single best item preference. This complex problem can be conceptualized as a low rank stochastic bandit problem where the goal of the learner is to minimize the cumulative regret by quickly identifying the best item for each user. </p>
+
 
 # Research Internship
 **1. INRIA, SequeL Lab:** Research internship under Dr. Odalric Maillard in the INRIA Sequel Lab, Lille, France from 1st September 2017 to 28th November 2017 for a period of 3 months.
