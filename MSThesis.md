@@ -11,4 +11,4 @@ This thesis studies the following topics in the area of Reinforcement Learning: 
 
 # MS Thesis
 
-You can find my MS thesis here. [Download M.S thesis](https://github.com/Subhojyoti/MSthesis/blob/master/final_thesis(A5)_Subhojyoti_CS15S300.pdf)
+You can find my MS thesis here. [Download M.S thesis](./pdf/final_thesis(A5)_Subhojyoti_CS15S300.pdf)
