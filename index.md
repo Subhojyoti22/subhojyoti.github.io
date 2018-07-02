@@ -15,7 +15,7 @@ I am a Ph.D. scholar in the College of Information and Computer Sciences, Univer
    
    * ### Full Paper ###
    
-      [**PDF**](https://arxiv.org/pdf/1711.03591.pdf)
+      [**PDF**](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16111)
 
 2. *"Thresholding Bandits with Augmented UCB"*, Subhojyoti Mukherjee, K. P. Naveen, Nandan Sudarsanam, Balaraman Ravindran, **Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence (IJCAI-17)**.
    
@@ -34,7 +34,7 @@ I am a Ph.D. scholar in the College of Information and Computer Sciences, Univer
 1. *Improved Changepoint Detection in Piecewise i.i.d Bandits*, Subhojyoti Mukherjee, Odalric-Ambrym Maillard (INRIA, Sequel Lab, Lille, France)
 
    * ### Abstract ###
-   <p>We proposed two UCB algorithms, UCB-CPD and ImpCPD for the piecewise stochastic environment. Both these algorithms are adaptive and try to locate the changepoints and restart, thereby performing better than the passive algorithms. Theoretically, ImpCPD achieves an order optimal regret bound, thereby closing an important gap with respect to the lower bound. Empirically, ImpCPD outperforms most of the passive and adaptive algorithms except the oracle-based algorithms in all the considered environments.</p>
+   <p> We consider the setup of stochastic multi-armed bandits in the case when reward distributions are piecewise i.i.d. with unknown changepoints. Out of generality, we assume the reward distributions to be bounded and thus do not restrict to specific parametric exponential families. Due to the regret minimization objective, we study the change of mean, in the context when not only the change times are unknown, but also the mean before and after any change. We focus on the case when changes happen simultaneously on all arms, and in stark contrast with the existing literature, we target gap-dependent (as opposed to only gap-independent) regret bounds involving the magnitude of changes and optimality-gaps. We introduce two simple adaptations of UCB-strategies that employ scan-statistics in order to actively detect the changepoints, without knowing in advance the number of changepoints G. We also derive gap-independent regret bounds. The first strategy UCB-CPD does not know the time horizon T and achieve a O(√(GT)log T) regret bound, while the second strategy ImpCPD makes use of the knowledge of T to remove the log T dependency thereby closing an important gap with respect to the lower bound. Empirically, ImpCPD outperforms most of the passive and adaptive algorithms except the oracle-based algorithms that have access to the exact changepoints in all the considered environments.</p>
 
 2. *Online Stochastic Low-Rank Latent Bandits*, Subhojyoti Mukherjee, Branislav Kveton, Anup Rao, Zheng Wen
 
@@ -50,7 +50,7 @@ I am a Ph.D. scholar in the College of Information and Computer Sciences, Univer
 
 # Collaborators
 
-1. Dr. Balaraman Ravindran, Associate Professor, Computer Science and Engineering Department, IIT Madras
+1. Dr. Balaraman Ravindran, Professor, Computer Science and Engineering Department, IIT Madras
 2. Dr. Nandan Sudarsanam, Assistant Professor, Department of Management Science, IIT Madras
 3. Dr. K.P. Naveen, Assistant Professor, Deprtment of Electrical Engineering, IIT Tiruapti
 4. Dr. Odalric-Ambrym Maillard, CR1, INRIA, SequeL Lab, Lille, France
@@ -63,5 +63,5 @@ You can find my full resume here ([Resume](https://github.com/Subhojyoti/CV/blob
 
 # Contact 
 
-subho [at] cse[dot]iitm[dot]ac[dot]in
+subho [at] cs[dot]umass[dot]edu
 
