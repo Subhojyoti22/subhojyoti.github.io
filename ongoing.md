@@ -1,3 +1,8 @@
+---
+layout: page
+title: Ongoing Projects
+---
+
 1. *Improved Changepoint Detection in Piecewise i.i.d Bandits*, Subhojyoti Mukherjee, Odalric-Ambrym Maillard (INRIA, Sequel Lab, Lille, France)
 
    * ### Abstract ###
