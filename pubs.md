@@ -2,27 +2,26 @@
 layout: page
 title: Publications
 ---
-Collaborators: [Abhijith Punnappurath](https://abhijithpunnappurath.github.io/), [A.N.Rajagopalan](http://www.ee.iitm.ac.in/~raju), [R.Aravind](http://www.ee.iitm.ac.in/user/aravind/), [Guna Seetharaman](http://www.cacs.louisiana.edu/~guna/), Sheetal Gupta, [Yogesh Balaji](http://yogeshbalaji.github.io/)
-
-<!--
- <script src="http://bibbase.org/show?bib=apvijay.github.io/apvijay.bib&authorFirst=1&jsonp=1"></script> 
--->
 
 
-## Journals
-1. Vijay Rengarajan, A.N.Rajagopalan, R.Aravind, and Guna Seetharaman, "Image Registration and Change Detection under Rolling Shutter Motion Blur," IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), doi: 10.1109/TPAMI.2016.2630687, published online November
-2016, published in print, vol. 39, no. 10, pp. 1959-1972, October 2017 [\[Paper\]](../pdf/2016_tpami.pdf)
+# Publications in Peer-reviewed Conferences 
 
-## Top Conferences
-*The top three computer vision conferences (CVPR, ECCV, ICCV) are highly competitive with acceptance rates about 20-25%: CVPR and ICCV have CiteSeer impact factor rankings in the top 5%, ECCV in the top 7%, of all computer science journals and conferences.*
+1. *"Efficient UCBV: An Almost Optimal Algorithm using Variance Estimates"*, Subhojyoti Mukherjee, K.P. Naveen, Nandan Sudarsanam, and Balaraman Ravindran, **Proceedings of the Thirty-Second Association for the Advancement of Artificial Intelligence (AAAI-18)**.
 
-1. Vijay Rengarajan, Yogesh Balaji, and A.N. Rajagopalan, "Unrolling the Shutter: CNN to Correct Motion Distortions," Accepted for publication at International Conference on Computer Vision and Pattern Recogniton (CVPR), July 2017 [\[Paper\]](../pdf/2017_cvpr.pdf) [\[Supp\]](../pdf/2017_cvpr_supp.pdf) [\[Poster\]](../pdf/2017_cvpr_poster.pdf) [\[Project page\]](../rs_rect_cnn)
-1. Vijay Rengarajan, A.N. Rajagopalan, and R. Aravind, "From Bows to Arrows: Rolling Shutter Rectification of Urban Scenes," International Conference on Computer Vision and Pattern Recogniton (CVPR), June 2016 [\[Paper\]](../pdf/2016_cvpr.pdf) [\[Supp\]](../pdf/2016_cvpr_supp.pdf) [\[Project page\]](../rs_rect_geom/)
-1. Abhijith Punnappurath, Vijay Rengarajan, and A.N. Rajagopalan, "Rolling Shutter Super-resolution," International Conference on Computer Vision (ICCV), Santiago, Chile, December 2015 [\[Paper\]](../pdf/2015_iccv.pdf) [\[Supp\]](../pdf/2015_iccv_supp.pdf) [\[Project page\]](http://www.ee.iitm.ac.in/~ee10d038/RSSR.html)
-1. Vijay Rengarajan, A.N. Rajagopalan, and R. Aravind, "Change Detection in the Presence of Motion Blur and Rolling Shutter Effect," European Conference on Computer Vision (ECCV), Zurich, Switzerland, September 2014 [\[Paper\]](../pdf/2014_eccv.pdf) [\[Project page\]](../rs_cd/)
+   * ### Abstract ###
+   
+   <p>We propose a novel variant of the UCB algorithm (referred to as Efficient-UCB-Variance (EUCBV)) for minimizing cumulative regret in the stochastic multi-armed bandit (MAB) setting. EUCBV incorporates the arm elimination strategy proposed in UCB-Improved while taking into account the variance estimates to compute the arms' confidence bounds, similar to UCBV. Through a theoretical analysis, we establish the *gap-dependent* regret bound of EUCBV after T trials and this bound is an improvement over that of existing state-of-the-art UCB algorithms (such as UCB1, UCB-Improved, UCBV,  MOSS). Further, EUCBV incurs an order optimal *gap-independent* regret bound of which is an improvement over that of UCB1, UCBV, and UCB-Improved, while being comparable with that of MOSS and OCUCB. Through an extensive numerical study, we show that EUCBV significantly outperforms the popular UCB variants (like MOSS, OCUCB, etc.) as well as Thompson sampling and Bayes-UCB algorithms.</p>
+   
+   * ### Full Paper ###
+   
+      [**PDF**](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16111)
 
-## Other Conferences
-1. Vijay Rengarajan, Abhijith Punnappurath, A.N. Rajagopalan, Guna Seetharaman, "Rolling Shutter Super-resolution in Burst Mode," International Conference on Image Processing (ICIP), September 2016 [\[Paper\]](../pdf/2016_icip.pdf)
-1. Vijay Rengarajan, Sheetal B. Gupta, A.N. Rajagopalan, and Guna Seetharaman, "Illumination Robust Change Detection with CMOS Imaging Sensors," SPIE Defense + Security Symposium, International Society for Optics and Photonics, Baltimore, Maryland, USA, April 2015 [\[Paper\]](../pdf/2015_spie.pdf) [\[Project page\]](../rs_cd/)
-1. Vijay Rengarajan, A.N. Rajagopalan, and R. Aravind, "Motion Estimation and Classification in Compressive Sensing from Dynamic Measurements," International Conference on Pattern Recognition (ICPR), Stockholm, Sweden, August 2014 [\[Paper\]](../pdf/2014_icpr.pdf) [\[Project page\]](../cs_mot/)
-1. Vijay Rengarajan, Abhijith Punnappurath, A.N. Rajagopalan, and Guna Seetharaman, "Efficient Change Detection for Very Large Motion Blurred Images," CVPR Workshop on Registration of Very Large Images, Columbus, Ohio, USA, June 2014 [\[PDF\]](../pdf/2014_cvprw.pdf) [\[Project page\]](../gs_mb/)
+2. *"Thresholding Bandits with Augmented UCB"*, Subhojyoti Mukherjee, K. P. Naveen, Nandan Sudarsanam, Balaraman Ravindran, **Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence (IJCAI-17)**.
+   
+   * ### Abstract ###
+   
+   <p>In this paper we propose the Augmented-UCB (AugUCB) algorithm for a fixed-budget version of the thresholding bandit problem  (TBP), where the objective is to identify a set of arms whose quality is above a threshold. A key feature of AugUCB is that it uses both  mean and variance estimates to eliminate arms that have been sufficiently explored; to the best of our knowledge, this is the first algorithm to employ such an approach for the considered TBP. Theoretically, we obtain an upper bound on the loss (probability of misclassification) incurred by AugUCB. Although UCBEV in literature provides a better guarantee, it is important to emphasize that UCBEV has access to problem complexity (whose computation requires arms’ mean and variances), and hence is not realistic in practice; this is in contrast to AugUCB whose implementation does not require any such complexity inputs. We conduct extensive simulation experiments to validate the performance of AugUCB. Through our simulation work, we establish that AugUCB, owing to its utilization of variance estimates, performs significantly better than the state-of-the-art APT, CSAR and other nonvariance-based algorithms.</p>
+   
+   * ### Full Paper ###  
+   
+      [**PDF**](http://static.ijcai.org/proceedings-2017/0350.pdf)
