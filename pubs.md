@@ -4,7 +4,7 @@ title: Publications
 ---
 
 
-# Publications in Peer-reviewed Conferences 
+# Peer-reviewed Conferences 
 
 1. *"Efficient UCBV: An Almost Optimal Algorithm using Variance Estimates"*, Subhojyoti Mukherjee, K.P. Naveen, Nandan Sudarsanam, and Balaraman Ravindran, **Proceedings of the Thirty-Second Association for the Advancement of Artificial Intelligence (AAAI-18)**.
 
