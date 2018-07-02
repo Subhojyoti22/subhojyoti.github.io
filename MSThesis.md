@@ -1,3 +1,7 @@
+---
+layout: page
+title: MS Thesis
+---
 
 # Abstract
 
