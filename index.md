@@ -1,7 +1,7 @@
 
 # About Me
 
-<p> I am a Ph.D. scholar in the College of Information and Computer Sciences, University of Massachusetts Amherst. I am advised by Dr. Hong Yu and Dr. Phillip Thomas. Currently, I am working in applying Reinforcement Learning techniques in medical applications. I am asscociated with the *Autonomous Learning Laboratory*(http://www-anw.cs.umass.edu/) and the *Bio-NLP*(https://bio-nlp.org/) group.</p>
+<p> I am a Ph.D. scholar in the College of Information and Computer Sciences, University of Massachusetts Amherst. I am advised by Dr. Hong Yu and Dr. Phillip Thomas. Currently, I am working in applying Reinforcement Learning techniques in medical applications. I am asscociated with the [Autonomous Learning Laboratory]([http://www-anw.cs.umass.edu/]) and the [Bio-NLP]([https://bio-nlp.org/]) group.</p>
    
    <p>Prevously, I was an M.S (Research) scholar in the Computer Science and Engineering (CSE) Department in IIT Madras. I was advised by Dr. Balaraman Ravindran (CSE Department, IIT Madras) and Dr. Nandan Sudarsanam (Department of Management Studies, IIT Madras). I worked in the area of stochastic and non-stocahstic Multi-Armed Bandit settings. </p>
 
