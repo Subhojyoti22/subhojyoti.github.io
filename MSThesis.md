@@ -36,7 +36,7 @@ title: MS Thesis
 # Finite-time Analysis of Frequentist Strategies for Multi-armed Bandits
 
 ## Abstract
-  KEYWORDS: Reinforcement Learning, Stochastic Bandits, UCB, UCBV, EU- CBV, Thresholding Bandits, APT, AugUCB
+  KEYWORDS: Reinforcement Learning, Stochastic Bandits, UCB, UCBV, EUCBV, Thresholding Bandits, APT, AugUCB
   <details>
         <summary>
           Show details
