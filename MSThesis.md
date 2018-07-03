@@ -33,8 +33,9 @@ title: MS Thesis
 ||Indian Institute of Technology Madras|
 
 
+# Finite-time Analysis of Frequentist Strategies for Multi-armed Bandits
 
-# Abstract
+## Abstract
   KEYWORDS: Reinforcement Learning, Stochastic Bandits, UCB, UCBV, EU- CBV, Thresholding Bandits, APT, AugUCB
   <details>
         <summary>
