@@ -2,6 +2,32 @@
 layout: page
 title: MS Thesis
 ---
+|General Technical Committee| Names|
+|--------------|-------------|
+|Chairperson: |[Dr. P Sreenivasa Kumar](https://www.cse.iitm.ac.in/~psk/) (HoD’s Nominee)
+||Professor|
+||Computer Science & Engineering|
+||Indian Institute of Technology Madras|
+|Research Advisor: |[Dr. Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/)|
+||Professor|
+||Computer Science & Engineering|
+||Indian Institute of Technology Madras|
+|Research Co-Advisor: |[Dr. Nandan Sudarsanam](https://doms.iitm.ac.in/index.php/nandan-s)|
+||Assistant Professor|
+||Department of Management Studies|
+||Indian Institute of Technology Madras|
+|Member 1: |[Dr. Sutanu Chakraborti](http://www.cse.iitm.ac.in/~sutanuc/)|
+||Associate Professor|
+||Computer Science & Engineering|
+||Indian Institute of Technology Madras|
+|Member 2: |[Dr. Nirav P. Bhatt](http://web.iitm.ac.in/ibse/team/Nirav-Bhatt.html)|
+||DST-INSPIRE Faculty|
+||Department of Chemical Engineering|
+||Indian Institute of Technology Madras|
+|Thesis Reviewer: |[Dr. Krishna Jagannathan](http://www.ee.iitm.ac.in/~krishnaj/)|
+||Assistant Professor|
+||Department of Electrical Engineering|
+||Indian Institute of Technology Madras|
 
 # Abstract
 
