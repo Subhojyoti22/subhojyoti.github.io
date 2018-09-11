@@ -33,4 +33,4 @@ title: Publications
         </details>
    * ### Full Paper ###  
    
-      [**PDF**](http://static.ijcai.org/proceedings-2017/0350.pdf)
+      [**PDF**](https://www.ijcai.org/proceedings/2017/0350.pdf)
