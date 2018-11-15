@@ -17,6 +17,7 @@ title: Ongoing Projects
    * ### Report ###
     
       <details>
+      
       [Download Report](/pdf/aistats_2019.pdf)
       </details>
     
@@ -34,5 +35,6 @@ title: Ongoing Projects
     * ### Report ###
     
       <details>
+  
       [Download Report](/pdf/paper.pdf)
       </details>
