@@ -19,6 +19,7 @@ title: Ongoing Projects
       <details>
       
       [Download Report](/pdf/aistats_2019.pdf)
+      
       </details>
     
 2. *Latent Ranked Bandits*, Subhojyoti Mukherjee, Branislav Kveton, Anup Rao, Zheng Wen
@@ -37,4 +38,5 @@ title: Ongoing Projects
       <details>
   
       [Download Report](/pdf/paper.pdf)
+      
       </details>
