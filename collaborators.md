@@ -7,7 +7,7 @@ title: Collaborators
 * [Dr. Nandan Sudarsanam](https://doms.iitm.ac.in/index.php/nandan-s), Assistant Professor, Department of Management Science, IIT Madras
 * [Dr. K.P. Naveen](https://sites.google.com/site/kpnave/home), Assistant Professor, Deprtment of Electrical Engineering, IIT Tiruapti
 * [Dr. Odalric-Ambrym Maillard](https://odalricambrymmaillard.wordpress.com/), CR1, INRIA, SequeL Lab, Lille, France
-* [Dr. Branislav Kveton](http://www.bkveton.com/), Machine Learning Scientist, Adobe Research, San Jose, USA
+* [Dr. Branislav Kveton](http://www.bkveton.com/), Machine Learning Scientist, Google Research, Mountain View, USA
 * [Dr. Anup Rao](https://sites.google.com/site/anupraob/), Machine Learning Scientist, Adobe Research, San Jose, USA
 * [Dr. Philip Thomas](https://people.cs.umass.edu/~pthomas/), Assistant Professor, University of Massachusetts Amherst, Amherst, USA
 * [Dr. Hong Yu](http://bio-nlp.org/), Principal Investigator, UMass Medical School, Worcestor, USA
