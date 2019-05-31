@@ -34,3 +34,24 @@ title: Publications
    * ### Full Paper ###  
    
       [**PDF**](https://www.ijcai.org/proceedings/2017/0350.pdf)
+
+
+# Peer-reviewed Workshops
+
+1. *"Distribution-dependent and Time-uniform Bounds for Piecewise i.i.d Bandits"*, Subhojyoti Mukherjee, Odalric-Ambrym Maillard, **An initial version was accepted at Reinforcement Learning for Real Life (RL4RealLife) Workshop in the 36 th International Conference on Machine Learning, Long Beach, California, USA, 2019 (ICML-19).**.
+   
+   * ### Abstract ###
+   
+      <details>
+      <summary>
+          Show details
+      </summary>
+        <p>We consider the setup of stochastic multi-armed bandits in the case when reward distributions are piecewise i.i.d. and bounded with unknown changepoints. We focus on the case when changes happen simultaneously on all arms, and in stark contrast with the existing literature, we target gap-dependent (as opposed to only gap-independent) regret bounds involving the magnitude of changes and optimality-gaps. Diverging from previous works, we assume the more realistic scenario that there can be undetectable changepoint gaps and under a different set of assumptions, we show that as long as the compounded delayed detection for each changepoint is bounded there is no need for forced exploration to actively detect changepoints. We introduce two adaptations of UCB-strategies that employ scan-statistics in order to actively detect the changepoints, without knowing in advance the changepoints and also the mean before and after any change. Our first method UCBLCPD does not know the number of changepoints G or time horizon T and achieves the first time-uniform concentration bound for this setting using the Laplace method of integration. The second strategy ImpCPD makes use of the knowledge of T to achieve the order optimal regret bound thereby closing an important gap with respect to the lower bound in a specific challenging setting. Our theoretical findings are supported by numerical experiments on synthetic and real-life datasets.</p>
+        </details>
+   * ### Full Paper ###  
+   
+      [**PDF**](https://arxiv.org/abs/1905.13159)
+
+
+
+
