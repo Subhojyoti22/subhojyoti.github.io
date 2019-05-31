@@ -38,7 +38,7 @@ title: Publications
 
 # Peer-reviewed Workshops
 
-1. *"Distribution-dependent and Time-uniform Bounds for Piecewise i.i.d Bandits"*, Subhojyoti Mukherjee, Odalric-Ambrym Maillard, **An initial version was accepted at Reinforcement Learning for Real Life (RL4RealLife) Workshop in the 36 th International Conference on Machine Learning, Long Beach, California, USA, 2019 (ICML-19).**.
+1. *"Distribution-dependent and Time-uniform Bounds for Piecewise i.i.d Bandits"*, Subhojyoti Mukherjee, Odalric-Ambrym Maillard, **An initial version was accepted at Reinforcement Learning for Real Life (RL4RealLife) Workshop in the 36 th International Conference on Machine Learning, Long Beach, California, USA, 2019 (ICML-19)**.
    
    * ### Abstract ###
    
