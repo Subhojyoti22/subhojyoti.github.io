@@ -11,3 +11,4 @@ title: Collaborators
 * [Dr. Anup Rao](https://sites.google.com/site/anupraob/), Machine Learning Scientist, Adobe Research, San Jose, USA
 * [Dr. Philip Thomas](https://people.cs.umass.edu/~pthomas/), Assistant Professor, University of Massachusetts Amherst, Amherst, USA
 * [Dr. Hong Yu](http://bio-nlp.org/), Principal Investigator, UMass Medical School, Worcestor, USA
+* [Dr. Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/), Assistant Professor, ECE Dept, Carnegie Mellon University, USA
