@@ -16,4 +16,19 @@ title: Ongoing Projects
     
     
        [Download Report](/pdf/paper.pdf)
+
+2. *Structured Bandits*, Subhojyoti Mukherjee, Gauri Joshi, Samarth Gupta
+
+ <details>
+        <summary>
+          Show details
+        </summary>
+          <p> We study a new variant of stochastic multi-armed bandit problem where the expected return of
+one arm may depend on the returns of other arms. We propose a new Thompson Sampling algorithm 
+for this general class of problems that can take help of this corrleations. We show that under certain circumstances it
+is possible to achieve finite expected cumulative regret. 
+    </p>
+       </details>
+    
+ 
       
